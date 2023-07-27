@@ -1,5 +1,21 @@
 # Scientific Writing
 
+## General Remarks
+
+* Keep an eye on your terminology
+* Use the same word for the same thing
+    * Don't try to be inventive
+* Don't make statements without proof, experimental validation or citation
+* Never use a term that is not common computer science knowledge or explicitly defined
+* Make sure any term you define is only used **after** it has been defined
+* Avoid forward references,
+    * Build a dependency graph of your terms/contents before and derive a partial order from it
+* Try to design your thesis in a top-down fashion, explain things in a top-down fashion
+* Try to Prepare the reader for the upcoming section/paragraph
+    * Influence the readers mindset in the right direction
+
+## Style
+
 * Every sentence should be necessary
 * Have one idea per sentence or paragraph and one topic per section.
 * Have a straightforward, logical organization.
@@ -47,7 +63,7 @@
     > Rule R triggers and simplifies X to Y.
 
 * can, can, can
-    Plz stop using "can"!
+    Please stop using "can"!
     Bad:
     > We can then generate LLVM code.
     Okay, does this mean you actually *do* emit LLVM code or is this sth you could theoretically do but haven't implemented yet?
@@ -84,25 +100,25 @@
     Good:
     > The function rec recurses over the graph.
 
-* Make sure that a sentence makes sense, if you elide citations (`\citet` is your friend):
+* Make sure that a sentence makes sense, if you elide citations (`\citet`/`\textcite` is your friend):
     Bad:
     > As [23] points out ...
     Good:
     > Dijkstra [23] points out ...
 
-* Good illustrations are a lot of work but often way better and clearer than complicated text that nobody understands.
+* Good figures are a lot of work but often way better and clearer than complicated text that nobody understands.
 * Only use pseudo-code, if you **really** need to bring a certain point across such as arguing about the asymptotic runtime.
+    * Prefer math (inference rules, mathematical functions, ...) over pseudo-code.
     * Often it is better to just show a stripped-down version of the real code.
-    * Usually, a "math"-version is better such as inference rules or proper mathematical functions.
     * Sometimes it's better to run through an example with accompanying figures.
 
 * Break these rules if there is a good reason to do so.
 
 ## Further Resources
 
-* [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+* ["How to write a great research paper"](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
     by *Simon Peyton Jones*
-* [Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+* ["Mathematical Writing"](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
     by *Donald E. Knuth*, *Tracy Larrabee*, and *Paul M. Roberts*
-* [Writing for Computer Science](https://link.springer.com/book/10.1007/978-1-4471-6639-9)
+* ["Writing for Computer Science"](https://link.springer.com/book/10.1007/978-1-4471-6639-9)
     by *Justin Zobel*
