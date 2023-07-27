@@ -57,7 +57,7 @@
     Better:
     > We now prove the following theorem.
 
-    * "We" (the authors/the author and the reader) is often a better alternative than passive voice but often there is even a better subject:
+    * "We" (the authors/the author and the reader) is usually a better alternative than passive voice but often there is even a better subject:
 
         Bad:
         > X is simplified to Y, as Rule R is triggered.
@@ -69,6 +69,7 @@
         > Rule R triggers and simplifies X to Y.
 
 * Please stop overusing "can"!
+
     Either you do something or not.
 
     Bad:
