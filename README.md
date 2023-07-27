@@ -23,8 +23,10 @@
 * Use short words.
 * Prefer simple words.
 * Use short sentences with simple structure.
+
     Bad:
     > The object under consideration is displaced horizontally.
+
     Good:
     > The ball moves sideways.
 * Keep paragraphs short.
@@ -35,7 +37,7 @@
 
 * Use examples.
     * Use dedicated example blocks:
-        > Example 3.5. With this algorithm we obtain Listing 3.2 from Listing 3.1.
+        > **Example 3.5.** With this algorithm we obtain Listing 3.2 from Listing 3.1.
     * Often an informative example is just a few words:
         > Special cases, such as the empty set, need to be handled separately.
 
@@ -44,10 +46,8 @@
     Bad:
     > The loop is unrolled four times.
 
-    By whom?
-        * The programmer,
-        * the compiler,
-        * some cool programming technique?
+    By whom? The programmer, the compiler, some cool programming technique?
+
     Good:
     > The compiler unrolls the loop four times.
 
@@ -58,6 +58,7 @@
     > We now prove the following theorem.
 
     * "We" (the authors/the author and the reader) is often a better alternative than passive voice but often there is even a better subject:
+
         Bad:
         > X is simplified to Y, as Rule R is triggered.
 
