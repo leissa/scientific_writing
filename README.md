@@ -143,11 +143,11 @@
     by *Donald E. Knuth*, *Tracy Larrabee*, and *Paul M. Roberts*
 * ["Writing for Computer Science"](https://link.springer.com/book/10.1007/978-1-4471-6639-9)
     by *Justin Zobel*
-* [ How to Write Papers So People Can Read Them ](https://www.youtube.com/watch?v=L_6xoMjFr70)
+* ["How to Write Papers So People Can Read Them"](https://www.youtube.com/watch?v=L_6xoMjFr70)
     by *Derek Dreyer*
-* [How to Have Your Abstract Rejected](http://www.sigplan.org/Resources/Advice/VanLeunen-Lipton/)
+* ["How to Have Your Abstract Rejected"](http://www.sigplan.org/Resources/Advice/VanLeunen-Lipton/)
     by *Mary-Claire van Leunen*, and *Richard Lipton*
-* [Advice to Authors of Extended Abstracts](http://www.sigplan.org/Resources/Advice/Pugh/)
+* ["Advice to Authors of Extended Abstracts"](http://www.sigplan.org/Resources/Advice/Pugh/)
     by *William Pugh*
-* [What it's like to be a POPL referee; or how to write an extended abstract so that it is more likely to be accepted](https://dl.acm.org/doi/10.1145/14947.14955)
+* ["What it's like to be a POPL referee; or how to write an extended abstract so that it is more likely to be accepted"](https://dl.acm.org/doi/10.1145/14947.14955)
     by *Mark Wegman*
