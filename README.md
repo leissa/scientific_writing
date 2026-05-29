@@ -258,6 +258,8 @@
   Good:
 
   > The following algorithm solves this problem.
+  
+* For the same reasons avoid: "obviously" "trivially" and "clearly"
 
 ---
 
