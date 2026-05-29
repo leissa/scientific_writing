@@ -76,7 +76,7 @@
 
   * Use the same word for the same thing.
   * Avoid introducing multiple names for the same concept.
-  * Don't try to be inventive.
+  * Don't try to be inventive: Use common terms and notation in your field instead of inventing something new.  
 
 * Define specialized or potentially ambiguous terminology before relying on it.
 
